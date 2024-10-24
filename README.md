@@ -100,7 +100,8 @@ rm -rf ~/.config/nvim/.git
 
 Start neovim
 ```sh
-nvim```
+nvim
+```
 
 
 ## Install JuNest (pacman, yay) without sudo.
